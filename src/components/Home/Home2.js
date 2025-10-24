@@ -13,38 +13,25 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m Salman Farzee, a product-driven{" "}
+              <b className="purple">Frontend React Developer</b> and{" "}
+              <b className="purple">Full Stack MERN Engineer</b> with over 3.5 years of experience
+              building scalable, responsive, and accessible web platforms.
               <br />
               <br />
-              I’m proficient in
-              <i>
-                <b className="purple">
-                  {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
-                </b>
-              </i>
-              — and I enjoy working across both backend and frontend stacks.
+              I specialize in crafting pixel-perfect UIs, optimizing RESTful API integrations,
+              and architecting robust backend services using{" "}
+              <b className="purple">React.js, Node.js, MongoDB, and TypeScript</b>.
               <br />
               <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              My work spans enterprise-grade applications, e-commerce platforms, and cloud-based systems—
+              each built with a focus on performance, modularity, and user-centric design.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              Whenever possible, I love building with{" "}
+              <b className="purple">Redux Toolkit</b>,{" "}
+              <b className="purple">Tailwind CSS</b>, and{" "}
+              <b className="purple">NestJS</b> to deliver clean, maintainable code and seamless user experiences.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -57,4 +44,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;

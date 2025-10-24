@@ -8,37 +8,41 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            Hey there! I’m <span className="purple">Salman Farzee</span>, a{" "}
+            <span className="purple">Frontend React Developer</span> and{" "}
+            <span className="purple">Full Stack MERN Engineer</span> based in{" "}
+            <span className="purple">Chennai, India</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            With 3.5+ years of experience, I specialize in building scalable SPAs and enterprise-grade platforms using{" "}
+            <b className="purple">React.js, Node.js, MongoDB, and TypeScript</b>.
+            <br />
+            I hold an MCA from{" "}
+            <span className="purple">Measi Institute of Information Technology</span>, where I focused on{" "}
+            <b className="purple">Advanced Algorithms, DBMS, and Web Technologies</b>.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
+            Outside production code, I stay sharp by engineering solutions and refining workflows:
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Practicing JavaScript output edge cases and execution quirks 🔍
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Designing scalable SVG logos with pixel precision and responsive constraints 🎯
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Iterating LaTeX resume layouts for ATS parsing and recruiter impact 📄
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Refactoring UI components for accessibility, performance, and modular reuse ⚙️
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Every interface, API, and asset should be engineered for clarity, performance, and future-proofing."
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Salman</footer>
         </blockquote>
       </Card.Body>
     </Card>
