@@ -9,12 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hey there! I’m <span className="purple">Salman Farzee</span>, a{" "}
-            <span className="purple">Frontend React Developer</span> and{" "}
-            <span className="purple">Full Stack MERN Engineer</span> based in{" "}
+            <span className="purple">Senior React / Full-Stack MERN Developer</span> based in{" "}
             <span className="purple">Chennai, India</span>.
             <br />
-            With 3.5+ years of experience, I specialize in building scalable SPAs and enterprise-grade platforms using{" "}
-            <b className="purple">React.js, Node.js, MongoDB, and TypeScript</b>.
+            With <b className="purple">4+ years of experience</b>, I specialize in building scalable SPAs and enterprise-grade platforms using{" "}
+            <b className="purple">React.js, Redux Toolkit, Node.js, Express, MongoDB, and TypeScript</b>.
             <br />
             I hold an MCA from{" "}
             <span className="purple">Measi Institute of Information Technology</span>, where I focused on{" "}

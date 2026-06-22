@@ -27,8 +27,8 @@ function Projects() {
               isLiveWebsite={false}
               isBlog={false}
               title="Giant EIP"
-              description="Enterprise-grade platform built with React, Tailwind CSS, NestJS, and Prisma. Integrated secure RESTful APIs, JWT/OAuth authentication, and achieved full WCAG-compliant accessibility. Optimized frontend performance with lazy loading and Redux Toolkit."
-              liveSite="" // to be updated
+              description="Full-Stack | Jan 2026 – Present. Built WCAG-compliant UI with React.js, Tailwind CSS, and Redux Toolkit, reducing render time by 50%. Engineered secure Node.js/Express RESTful APIs with JWT, OAuth, CORS, and Helmet, improving query efficiency by 45%. Integrated Axios for real-time data rendering across state-driven workflows."
+              liveSite=""
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isLiveWebsite={false}
               isBlog={false}
               title="API Gateway"
-              description="Frontend system for distributed cloud APIs. Built responsive UI with React-Bootstrap and optimized RESTful endpoints for 30% higher throughput. Diagnosed and resolved UI/UX inconsistencies to improve accessibility and visual consistency."
-              liveSite="" // to be updated
+              description="Frontend Developer | Jun 2025 – Dec 2025. Designed and optimized RESTful APIs for distributed cloud systems, improving request throughput by 30%. Built responsive UI components with React-Bootstrap, HTML5, and CSS3 for cross-device compatibility. Diagnosed and resolved UI/UX inconsistencies, boosting accessibility scores across modules."
+              liveSite=""
             />
           </Col>
 
@@ -49,19 +49,19 @@ function Projects() {
               isLiveWebsite={true}
               isBlog={false}
               title="Namo Bharat"
-              description="Modular frontend architecture using React.js, Redux Toolkit, and Context API. Delivered responsive layouts and seamless API integration across mobile, tablet, and desktop. Reduced feature development time by 25% through reusable components."
-              liveSite="https://rrts.co.in/web/dashboard/home" 
+              description="Frontend Developer | Apr 2023 – Dec 2023. Engineered modular, reusable React.js components, reducing development time for new features by 25%. Integrated RESTful APIs with responsive layouts for seamless performance across mobile, tablet, and desktop. Applied Redux Toolkit and Context API for optimized state management and reduced re-rendering overhead."
+              liveSite="https://rrts.co.in/web/dashboard/home"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               // imgPath={starHealth}
-              isLiveWebsite={true}
+              isLiveWebsite={false}
               isBlog={false}
               title="Star Health Insurance"
-              description="Full-stack modules built with Node.js, Express, and MongoDB. Integrated third-party APIs for enhanced platform functionality and managed data integrity with Mongoose. Achieved 40% faster response times and 20% higher user engagement."
-              liveSite="" // to be updated
+              description="Full-Stack Developer | Jul 2022 – Mar 2023. Engineered Node.js/Express backend APIs supporting real-time data sync with 40% faster response times. Integrated third-party APIs increasing user engagement by 20%. Managed MongoDB with Mongoose for data integrity and wrote Jest/RTL unit tests achieving 75%+ code coverage."
+              liveSite=""
             />
           </Col>
 
@@ -70,9 +70,9 @@ function Projects() {
               // imgPath={ecommerce}
               isLiveWebsite={false}
               isBlog={false}
-              title="Full-Stack E-commerce Website"
-              description="Internship project built with MERN stack. Designed responsive user and admin interfaces with React and Bootstrap. Implemented real-time inventory management and CRUD operations, reducing manual updates by 90%."
-              liveSite="" // to be updated
+              title="Full-Stack E-commerce"
+              description="Internship Project | Dec 2021 – Apr 2022. Built and deployed a full-stack MERN e-commerce platform with separate user and admin interfaces on Netlify. Implemented JWT-based auth and cart logic with Redux. Designed RESTful APIs with Node.js/Express and managed product, order, and user data in MongoDB."
+              liveSite=""
             />
           </Col>
         </Row>

@@ -13,19 +13,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m Salman Farzee, a product-driven{" "}
-              <b className="purple">Frontend React Developer</b> and{" "}
-              <b className="purple">Full Stack MERN Engineer</b> with over 3.5 years of experience
-              building scalable, responsive, and accessible web platforms.
+              I’m Salman Farzee, a{" "}
+              <b className="purple">Senior React / Full-Stack MERN Developer</b> with{" "}
+              <b className="purple">4+ years of experience</b> building scalable SPAs
+              and enterprise-grade web platforms.
               <br />
               <br />
-              I specialize in crafting pixel-perfect UIs, optimizing RESTful API integrations,
+              I specialize in crafting pixel-perfect UIs, optimizing RESTful API consumption,
               and architecting robust backend services using{" "}
-              <b className="purple">React.js, Node.js, MongoDB, and TypeScript</b>.
+              <b className="purple">React.js, Redux Toolkit, Node.js, Express, MongoDB, and TypeScript</b>.
               <br />
               <br />
-              My work spans enterprise-grade applications, e-commerce platforms, and cloud-based systems—
-              each built with a focus on performance, modularity, and user-centric design.
+              My work spans enterprise-grade applications across 5+ projects — each built with a focus
+              on performance, accessibility, and Agile delivery.
               <br />
               <br />
               Whenever possible, I love building with{" "}
